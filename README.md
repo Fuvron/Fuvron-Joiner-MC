@@ -1,5 +1,5 @@
 # Fuvron Minecraft Bot Joiner
-
+ Windows 8 / 10 / 11
 ![Fuvron Logo](https://fuvron-main.web.app/img/logo3d.png)
 ![Minecraft Bots](https://fuvron-main.web.app/img/joinerbig.png)
 
@@ -21,7 +21,7 @@ Fuvron simplifica la integración de bots en tus servidores favoritos de Minecra
 
 ## Cómo Empezar
 
-1. **Descargar**: [Descarga la última versión aquí](path/to/download)
+1. **Descargar**: [Descarga la última versión aquí](https://fuvron-main.web.app/tools/joiner.html)
 2. **Instalar**: Sigue las instrucciones del instalador.
 3. **Configurar**: Añade tus servidores y configura los bots.
 4. **Conectar**: Conéctate y gestiona los bots con facilidad.

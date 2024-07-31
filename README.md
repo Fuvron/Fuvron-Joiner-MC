@@ -16,8 +16,8 @@ Fuvron simplifica la integración de bots en tus servidores favoritos de Minecra
 
 ## Capturas de Pantalla
 
-(![image](https://fuvron-main.web.app/img/fuvron_joiner.png)
-([![image](https://fuvron-main.web.app/img/fuvron_joiner2.png)
+![image](https://fuvron-main.web.app/img/fuvron_joiner.png)
+![image](https://fuvron-main.web.app/img/fuvron_joiner2.png)
 
 ## Cómo Empezar
 
@@ -30,15 +30,9 @@ Fuvron simplifica la integración de bots en tus servidores favoritos de Minecra
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar Fuvron, por favor abre un 'issue' o envía un 'pull request'.
 
-## Licencia
+## Discord
 
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](path/to/license).
-
-## Contacto
-
-Para más información o ayuda, puedes contactarnos en [email@example.com](mailto:email@example.com).
+Para más información o ayuda, puedes contactarnos en (https://discord.gg/K8FbFqGYaX).
 
 ---
 
-![Fuvron Logo](path/to/your/logo1.png)
-![Minecraft Bots](path/to/your/logo2.png)

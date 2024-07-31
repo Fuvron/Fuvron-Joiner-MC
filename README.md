@@ -16,8 +16,8 @@ Fuvron simplifica la integración de bots en tus servidores favoritos de Minecra
 
 ## Capturas de Pantalla
 
-![Vista de la Herramienta](path/to/your/screenshot1.png)
-![Gestión de Bots](path/to/your/screenshot2.png)
+![Vista de la Herramienta](![image](https://github.com/user-attachments/assets/4775daab-b9d4-47d3-ab26-adac0142bf66))
+![Gestión de Bots](![image](https://github.com/user-attachments/assets/db35680f-14a3-48ce-9418-396e3cf65347))
 
 ## Cómo Empezar
 

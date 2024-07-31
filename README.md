@@ -1,7 +1,7 @@
 # Fuvron Minecraft Bot Joiner
 
-![Fuvron Logo](path/to/your/logo1.png)
-![Minecraft Bots](path/to/your/logo2.png)
+![Fuvron Logo](https://fuvron-main.web.app/img/logo3d.png)
+![Minecraft Bots](https://fuvron-main.web.app/img/joinerbig.png)
 
 Fuvron Minecraft Bot Joiner es una herramienta especializada en unir bots a servidores de Minecraft, compatible con versiones desde la 1.8 hasta la 1.20.
 
@@ -16,8 +16,8 @@ Fuvron simplifica la integración de bots en tus servidores favoritos de Minecra
 
 ## Capturas de Pantalla
 
-![Vista de la Herramienta](![image](https://fuvron-main.web.app/img/fuvron_joiner.png)
-![Gestión de Bots]([![image](https://fuvron-main.web.app/img/fuvron_joiner2.png)
+(![image](https://fuvron-main.web.app/img/fuvron_joiner.png)
+([![image](https://fuvron-main.web.app/img/fuvron_joiner2.png)
 
 ## Cómo Empezar
 
